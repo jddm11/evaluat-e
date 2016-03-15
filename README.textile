@@ -1,5 +1,5 @@
 h1. !https://evaluat-e.herokuapp.com/evaluat-e_logo.png(EVALUAT-E)! Application Web to evaluate student performance.
 
-Project for Software Development Subject, UC Catolica Chila, Santiago
+Project for Software Development Subject, UC Catolica Chile, Santiago
 
 * "Heroku app url":https://evaluat-e.herokuapp.com/
