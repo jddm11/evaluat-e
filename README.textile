@@ -1,4 +1,4 @@
-h1. !https://evaluat-e.herokuapp.com/evaluat-e.png(EVALUAT-E)! Application Web to evaluate student performance.
+h1. !https://evaluat-e.herokuapp.com/evaluat-e_logo.png(EVALUAT-E)! Application Web to evaluate student performance.
 
 Project for Software Development Subject, UC Catolica Chila, Santiago
 
